@@ -1,5 +1,5 @@
 # workshop-Multivariate-analysis
-##AIM:
+## AIM:
 To perform Bivariate/Multivariate Analysis for the given data set.
 
 ## ALGORITHM:
