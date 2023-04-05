@@ -64,7 +64,7 @@ sns.heatmap(df.corr(),annot=True)
 ![DS4](https://user-images.githubusercontent.com/118707332/229976995-e871cf30-38d9-476d-b4e4-f6efc4f4b812.png)
 ## AFTER REMOVING NULL VALUES
 ![DS5](https://user-images.githubusercontent.com/118707332/229977007-a20fe47d-d596-4d0a-a8bc-08b29e5f5f90.png)
-## NUMERICAL AND CATEGORICAL
+## NUMERICAL AND NUMERICAL
 ![DS6](https://user-images.githubusercontent.com/118707332/229977021-99183b1e-c6f4-46a5-b47e-9f24f0dcc102.png)
 ![DS7](https://user-images.githubusercontent.com/118707332/229977025-6a3d15f1-af01-47a2-9970-52e8d315f0e0.png)
 ## NUMERICAL AND CATEGORICAL
